@@ -2,4 +2,4 @@
 
 idk , maybe sus?
 
-<img src= "[https://imgur.com/gallery/Oxc376n](https://imgur.com/gallery/VbnCwfP)">
+<img src= "https://i.imgur.com/3mCKwaA.jpeg">
