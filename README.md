@@ -7,4 +7,4 @@ idk , maybe sus?
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yhg6w7s755zwp6n7pl2jgui5lq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yhg6w7s755zwp6n7pl2jgui5lq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yhg6w7s755zwp6n7pl2jgui5lq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=1446db)](https://spotify-github-profile.vercel.app/api/view?uid=31yhg6w7s755zwp6n7pl2jgui5lq&redirect=true)
