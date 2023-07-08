@@ -1,6 +1,6 @@
-### Hi there 👋
 
-One thing is required for great friendship - an ability to live without it.
+
+### One thing is required for great friendship - an ability to live without it.
 
 <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCfknJvEhG855EdQeyQL9dzlK4cteOf4u3lkDlRW67mcPq0A9vsmqkAGe-zm27EnrhnY&usqp=CAU">
 
